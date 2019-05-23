@@ -65,7 +65,7 @@ def helice_circular_1():
     :return: circular propeller
     """
 
-    # añadir los códigos aqui
+    # añadir sus códigos aca
     n = 1000
     fig = plt.figure()
     ax = fig.add_subplot(111, projection='3d')
