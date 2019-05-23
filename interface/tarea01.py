@@ -61,7 +61,7 @@ def helice_circular_1():
     - Bastian Bustamante Moraga (@BastianBustamante)
     - Rodrigo Torrez Queupan (@imperium31)
     - Juan Hernandez Gatica (@juanpablo1994)
-    -Eric Rojas Palma (@
+    -Eric Rojas Palma (@valukar)
     :return: circular propeller
     """
 
